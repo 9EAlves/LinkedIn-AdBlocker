@@ -8,7 +8,7 @@ Extensão Adblocker Simples para LinkedIn, baseado neste [tutorial](https://leve
 
 1. Faça o download dos arquivos e os extraia.
 
-2. Abra as Extensões do Navegador: [chrome://extensions/](chrome://extensions/)
+2. Abra as Extensões do Navegador: **_chrome://extensions/_**
    (Copie e cole esta URL diretamente na barra de endereços do seu navegador)
 
 3. Ative o modo desenvolvedor.
